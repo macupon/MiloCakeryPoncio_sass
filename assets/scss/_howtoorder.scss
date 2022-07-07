@@ -1,0 +1,20 @@
+.lista{ 
+    width: 60%;
+    font-size: 20px;
+    border: solid $colorborde;
+    margin: 20px 25px 5px 20px;
+    font-family: 'Lato', sans-serif;
+    background-color: white;
+}
+.delivery{
+    border: solid $colorborde;
+    padding: 10px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    font-family: 'Lato', sans-serif;
+    background-color: white;
+    width: 60%;
+}
+.deliveryoptions {
+    font-size: 20px;
+}
